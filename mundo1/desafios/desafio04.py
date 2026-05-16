@@ -1,0 +1,7 @@
+algo = input('Escreva algo: ')
+print(type(algo))
+print(algo.isnumeric())
+print(algo.isalpha())
+print(algo.islower())
+print(algo.isupper())
+print(algo.isalnum())
